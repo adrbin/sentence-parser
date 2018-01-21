@@ -1,0 +1,7 @@
+
+
+
+Zadanie
+Program ma dzielić tekst na akapity i zdania. Na ogół zdanie kończy się kropką, ale nie zawsze kropka kończy zdanie. W  szczególności trzeba uwzględnić popularne skróty zakończone kropką, (np., ‘prof. Jankowski’, ‘łac. Egidius Romanus’), licby (3.5), daty (12.03.1990.  ‘Na początku lat 90. XV w.’), inicjały ( ‘Micheal J. Gelb’), numerowane elementy wyliczeń. Pusta linia nie może być elementem zdania, nie powinna też pojawic się w pliku wynikowym.  Jako zdania należy też traktować frazy nie stanowiące zdań, ale występujące samodzielnie, np. tytuły artykułów, czy rozdzialow.
+
+Pusta linia (sakwencja pustych linii) powina być traktowana jako koniec zdania i koniec akapitu.
